@@ -1,0 +1,9 @@
+.Kachmaruk-slider {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+.Kachmaruk-slider .slide-img {
+  width: 80%;
+  height: 200px;
+}
